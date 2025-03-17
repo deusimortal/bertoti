@@ -43,11 +43,11 @@ The text also focus in explaining some proposals for the way software engineerin
 O diagrama mostra duas abordagens para construir um produto:
 
 "Not like this" (Não assim):
-
 O desenvolvimento começa com partes individuais do produto final (como rodas) que, isoladamente, não são úteis até que o carro esteja completo.
 Isso resulta em um processo onde o usuário só obtém valor no final, gerando insatisfação durante o caminho.
-"Like this" (Assim):
 
+"Like this" (Assim):
 O desenvolvimento começa com um produto funcional básico (skate), evoluindo para algo mais sofisticado (patinete, bicicleta, moto) até chegar ao carro.
+
 Cada estágio já é utilizável, garantindo valor e satisfação contínuos ao usuário.
 A citação de François Chollet (Google) reforça a ideia de que o melhor caminho para construir um sistema complexo é criar algo funcional desde o início, e não apenas desenvolver módulos isolados do produto final.
